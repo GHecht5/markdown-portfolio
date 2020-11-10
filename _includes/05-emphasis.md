@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Galen has *very* little skill when it comes to **programming**, but like a *good boy* he wants to learn.
